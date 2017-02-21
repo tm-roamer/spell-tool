@@ -1,6 +1,10 @@
 
 #### 这是一个内部国际化文件的拼写检查小工具
 
+#### 上图
+
+![github](https://github.com/tm-roamer/spell-tool/blob/master/docs/spell.png?raw=true "demo")
+
 #### 运行
 
     npm start
