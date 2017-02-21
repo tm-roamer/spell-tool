@@ -3,7 +3,7 @@
 
 #### 上图
 
-![github](https://github.com/tm-roamer/spell-tool/blob/master/docs/spell.png?raw=true "demo")
+![github](https://github.com/tm-roamer/spell-tool/blob/master/doc/spell.png?raw=true "demo")
 
 #### 运行
 
